@@ -132,14 +132,14 @@ wheels = [
 
 [[package]]
 name = "flatmapknowledge"
-version = "2.8.0"
+version = "2.8.1"
 source = { editable = "." }
 dependencies = [
     { name = "mapknowledge" },
 ]
 
 [package.metadata]
-requires-dist = [{ name = "mapknowledge", url = "https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.6.0/mapknowledge-1.6.0-py3-none-any.whl" }]
+requires-dist = [{ name = "mapknowledge", url = "https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.6.1/mapknowledge-1.6.1-py3-none-any.whl" }]
 
 [[package]]
 name = "frozendict"
@@ -380,8 +380,8 @@ wheels = [
 
 [[package]]
 name = "mapknowledge"
-version = "1.6.0"
-source = { url = "https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.6.0/mapknowledge-1.6.0-py3-none-any.whl" }
+version = "1.6.1"
+source = { url = "https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.6.1/mapknowledge-1.6.1-py3-none-any.whl" }
 dependencies = [
     { name = "networkx" },
     { name = "neurondm" },
@@ -393,7 +393,7 @@ dependencies = [
     { name = "structlog" },
 ]
 wheels = [
-    { url = "https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.6.0/mapknowledge-1.6.0-py3-none-any.whl", hash = "sha256:400a2b1eb57ec6c3b9aa5723b91ac3c0dd9deabf817062a76464cf349e4fc731" },
+    { url = "https://github.com/AnatomicMaps/map-knowledge/releases/download/v1.6.1/mapknowledge-1.6.1-py3-none-any.whl", hash = "sha256:03e33c48b26d649a2eaf22d9e320e297ddd6a995c9cb33acc8d9932c63a933c6" },
 ]
 
 [package.metadata]
